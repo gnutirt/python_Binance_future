@@ -5,7 +5,7 @@ How to use
 
 2-Install requirement by using pip install -r requirements.txt
 
-2.1 - If error in install TA-Lib, please check this link https://pypi.org/project/TA-Lib/
+2.1 - If error in installing TA-Lib, please check this link https://pypi.org/project/TA-Lib/
 
 3- Type your API 
 
