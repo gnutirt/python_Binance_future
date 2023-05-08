@@ -1,0 +1,12 @@
+API_KEY = 'Type here API Key'
+API_SECRET = 'Type here your API Secret'
+price_diff = 0.0015  # Buy/sell price different, you will place order to buy Long is lower 0.15% with Marked Price or sell Short higher 0.15%
+Orderquantity = 1, Number of order. Should 1.
+multi = 50  # Leverage multiplier
+amountplay = 0.95  # Amount of money to play with Furture. You have 30 USDT and play with 0.95 *39
+symbol = 'BTCUSDT' #Change order symbol Pair, example "ETHUSDT"...
+price_diff_order = 1.15 #  if your order and current price have a different bigger than 15%, The bot will automatic cancel and place the new orders
+pnl_percent = 50 # % Profit percent is greater than {keys.pnl_percent}%
+price_diff_takeprofit = 5 # % Price diff percent is greater than {keys.price_diff_takeprofit}%
+price_diff_stoploss = 5 # % Price diff percent is greater than {keys.price_diff_stoploss}%
+amount_takeprofit = 5 # USDT Amount of money to takeprofit
