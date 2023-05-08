@@ -1,0 +1,10 @@
+requests
+random2
+python-binance
+TA-Lib
+matplotlib
+scikit-learn
+numpy
+pandas
+importlib
+pytz
